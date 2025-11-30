@@ -1,4 +1,4 @@
-# Assignment_5_6200_AD
+# Sequence Attributes
 
 ## Author's Name: Aditya Daware
 
